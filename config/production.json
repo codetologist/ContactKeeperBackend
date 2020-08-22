@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://codetologist:codetologist123@contactkeeper.wfxow.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
