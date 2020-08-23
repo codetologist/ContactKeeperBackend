@@ -1,5 +1,4 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from 'react';
 
 const About = props => {
     return (
@@ -13,10 +12,6 @@ const About = props => {
             </p>
         </div>
     )
-}
+};
 
-About.propTypes = {
-
-}
-
-export default About
+export default About;
